@@ -32,6 +32,10 @@ Make sure you have numpy and opencv installed. If not install them using pip
 pip install numpy
 pip install opencv-python
 ```
+```
+Install argparse
+pip install argparse
+```
 
 I am using the ***numpy*** version ***1.17.4*** and ***opencv*** version ***3.4.2***
 
